@@ -9,6 +9,11 @@
 
   	```
 
+## Para configurar Zsh como shell principal usar el siguiente comando
+
+  	```
+        chsh -s $(which zsh)
+    ```
 
 ## Despues podras instalar OhMyZsh con el siguiente comando
 
